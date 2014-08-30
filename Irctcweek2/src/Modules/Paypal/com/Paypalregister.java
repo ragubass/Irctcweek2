@@ -16,6 +16,8 @@ public class Paypalregister {
 		cwm.clickbylinkText("Sign Up");
 	
 		cwm.setvalueById("emailAddress", "test@testleaf.com");
+		
+		System.out.println("GIT installed");
 	}
 	
 	}
